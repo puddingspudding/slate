@@ -30,7 +30,7 @@ This example API documentation page was created with [Slate](https://github.com/
 > To authorize, use this code:
 
 ```ruby
-require 'kittn'
+require 'kittn';
 
 api = Kittn::APIClient.authorize!('meowmeowmeow')
 ```
